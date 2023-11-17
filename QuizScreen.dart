@@ -170,8 +170,8 @@ class _QuizScreenState extends State<QuizScreen> {
           // Time's up, perform any desired actions here
           timeRemaining = quizTimeInSeconds; // Reset the timer for the next quiz
           shuffleQuestionsAndOptions(); // Shuffle questions and options for the next quiz
-          // You can add actions to proceed to the next question or end the quiz
-          // based on your requirements when the time is up.
+         
+   
         }
       });
     });
