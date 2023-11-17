@@ -14,7 +14,7 @@ class Apps extends StatelessWidget {
         backgroundColor: Colors.teal, // Set the app bar color
       ),
       body: Container(
-        color: Colors.black, // Change this to your preferred background color
+        color: Colors.black, // Change background color
         child: ListView(
           children: [
             AppListItem(
