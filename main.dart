@@ -280,4 +280,4 @@ class HomeActivity extends StatelessWidget {
   }
 }
 
-// ... (AppListItem and Apps widget code remains unchanged)
+
